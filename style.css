@@ -1,0 +1,12 @@
+/* -----slider-content--- */
+.slidercontent{
+    margin-bottom: 158px;
+}
+.slidercontent h1{
+    font-size: 50px;
+    color:white;
+}
+.slidercontent p{
+    margin: 20px 0px;
+    color:white;
+}
