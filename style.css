@@ -5,4 +5,7 @@
 .register-decoration{
     text-decoration: none;
 }
-
+/* ----footer --area-- */
+.footer-area{
+    height:400px;
+}
